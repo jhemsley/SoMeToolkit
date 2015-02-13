@@ -1,6 +1,10 @@
 Syracuse Social Media Collection (SSMC) Toolkit (Development Repo)
 =========
 
+NOTE: WE HAVE MIGRATED DEVELOPMENT TO https://github.com/bitslabsyr/stack
+
+
+
 The SSMC is a toolkit designed to collect, process, and store data streamed from online social networks. The toolkit is an ongoing project via the Syracuse University iSchool, and currently supports the Twitter Streaming API.
 
 You can cite this repository: 
